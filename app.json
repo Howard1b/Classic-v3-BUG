@@ -6,7 +6,7 @@
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"]
   "env": {
       "autoviewstatus": {
-        "description": "Put TRUE,if you want the bot to view status ",
+        "description": "TRUE",
         "required": false
       },
       "HEROKU_API_KEY": {
